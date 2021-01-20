@@ -35,7 +35,7 @@ hardware/software control off
 * 9600
 * 19200
 * 38400
-* 57600 - deault
+* 57600 - default
 * 115200
 
 
